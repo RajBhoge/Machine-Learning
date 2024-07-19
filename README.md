@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignments / Projects on machine learning @Freidrich-Alexander-Universitat
 
 IDE : PyCharm
@@ -40,3 +41,6 @@ Feature Matching and Palmprint Identification
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/8dee0119-6d21-4b5e-81b5-af8ddb0b03af">
 </div>
 Assignment 5 : Face Recognition
+=======
+# Machine-Learning
+>>>>>>> 98f028961bbc0c0c0072c0146ffef927bcad2ef5
